@@ -1,0 +1,59 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 28px;
+}
+
+nav {
+  background-color: skyblue;
+  margin: 0 30px;
+}
+
+main {
+  background-color: lightcyan;
+  margin: 0 30px;
+}
+
+h1 {
+  margin: 0;
+  padding: 25px 0;
+  font-size: 48px;
+}
+
+h2 {
+  margin: 0;
+  padding: 20px 0;
+  font-size: 36px;
+}
+
+.btn {
+  background-color: lightseagreen;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 5px;
+}
+
+.btn:hover {
+  background-color: hotpink;
+  padding: 8px;
+}
+
+.txt {
+  font-size: 24px;
+  border-radius: 5px;
+  border-left: lightgray 15px solid;
+  border-right: lightgray 15px solid;
+  border-top: transparent solid 5px;
+  border-bottom: transparent solid 5px;
+}
+
+
+
+
+
+
+
+
